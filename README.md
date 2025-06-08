@@ -6,7 +6,7 @@ Welcome to *Block Hunt <3*, this is a fast-paced mini-game built using Python an
 
 ## Game Description
 
-In *Block Hunt <3, you control a teal square (the hunter block) and try to **catch the smaller cyan block* (the target) as many times as you can in *60 seconds*. Each successful catch earns you 1 point and the block relocates randomly on the screen, ready to be hunted again.
+In Block Hunt <3, you control a teal square (the hunter block) and try to *catch the smaller cyan block* (the target) as many times as you can in *60 seconds*. Each successful catch earns you 1 point and the block relocates randomly on the screen, ready to be hunted again.
 
 The goal? *Score high before the time runs out!*
 
