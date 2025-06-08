@@ -14,24 +14,14 @@ The goal? *Score high before the time runs out!*
 
 ## How to Play
 
-- *Move the teal block using the arrow keys:*
-  - ← Left
-  - → Right
-  - ↑ Up
-  - ↓ Down
-- When the teal block *collides* with the cyan target block, your *score increases by 1*, and the target jumps to a new random position.
-- You have *60 seconds* to hunt as many blocks as you can.
-- Once time is up, your final score is displayed.
-
----
-
-## Features
-
-- Simple movement mechanics
-- Random repositioning of the target block
-- Countdown timer
-- Final score display after game over
-- Smooth 60 FPS animation
+>*Move the teal block using the arrow keys:*
+   ← Left
+   → Right
+   ↑ Up
+   ↓ Down
+> When the teal block *collides* with the cyan target block, your *score increases by 1*, and the target jumps to a new random position.
+> You have *60 seconds* to hunt as many blocks as you can.
+> Once time is up, your final score is displayed.
 
 ---
 
