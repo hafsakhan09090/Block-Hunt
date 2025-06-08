@@ -4,7 +4,6 @@ Welcome to *Block Hunt <3*, this is a fast-paced mini-game built using Python an
 <p align="center">
   <img src="BH.jpeg" width="200" alt="Block Hunt Logo">
 </p>
----
 
 ## Game Description
 
