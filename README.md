@@ -1,7 +1,9 @@
 # Block Hunt <3 for Stanford's Code in Place 2025
 
 Welcome to *Block Hunt <3*, this is a fast-paced mini-game built using Python and Pygame where your reflexes are tested in a colorful chase to collect as many blocks as possible before the timer runs out! 
-
+<p align="center">
+  <img src="BH.jpeg" width="200" alt="Block Hunt Logo">
+</p>
 ---
 
 ## Game Description
